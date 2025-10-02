@@ -74,16 +74,3 @@ Você pode usar o Postman ou `curl` para testar os endpoints da API.
         }
     }
     ```
-
-## 🖼️ Imagens da Interface Web
-
-**Atenção:** Tire prints da sua aplicação funcionando, salve-os em uma pasta `img` na raiz do projeto e depois adicione os nomes corretos dos arquivos abaixo.
-
-### Tela Inicial
-![Tela Inicial da Aplicação](img/tela-inicial.png)
-
-### Lista de Departamentos
-![Tela com a Lista de Departamentos](img/lista-departamentos.png)
-
-### Formulário de Cadastro de Funcionário
-![Tela do Formulário de Funcionário](img/form-funcionario.png)
